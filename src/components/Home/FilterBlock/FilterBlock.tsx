@@ -1,6 +1,5 @@
 import styles from './filterBlock.module.scss'
 import searchImage from "../../../assets/svg/search.svg";
-import {createLogger} from "vite";
 import {ChangeEvent, useState} from "react";
 
 const FilterBlock = () => {
